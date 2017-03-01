@@ -40,7 +40,7 @@ The configuration of the plugin itself is done in the file **`etc/plugin.conf`**
 ### visu_dir
 ** Only used for **old visu** (not for smartVISU) **
 
- Directory in which the generated web pages of the old visa are stored.
+ Directory in which the generated web pages of the old visu are stored.
 
 ### smartvisu_dir
 You could generate pages for the smartVISU visualisation if you specify the **`smartvisu_dir`** which should be set to the root directory of your smartVISU installation.
